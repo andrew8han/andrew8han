@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @andrew8han
 - 👀 I’m interested in Sports, video games, anime, and trading cards
-- 🌱 I’m currently learning Data Analytics
+- 🌱 I’m currently learning Data Analytics and Coding
 - 📫 How to reach me through github or linkedin https://www.linkedin.com/in/andrewleehan/
 - 😄 Pronouns: He/Him
 
